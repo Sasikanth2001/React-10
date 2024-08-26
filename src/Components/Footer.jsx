@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="container">
           <p className="m-0 text-center text-white">
             Copyright{" "}
-            <a href="mailTo:rajkumaranbu192@gmail.com">©rajkumaranbu192@gmail.com</a>{" "}
+            <a href="mailTo:rsasikanth2001@gmail.com">©rsasikanth2001@gmail.com</a>{" "}
             2024
           </p>
         </div>
